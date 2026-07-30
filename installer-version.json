@@ -1,6 +1,6 @@
 {
-  "version": "0.0.5",
-  "windows": "1UpInstaller-0.0.5.exe",
-  "mac": "1UpInstaller-0.0.5.jar",
-  "notes": "Fresh look matching the 1Up Plugins site."
+  "version": "0.0.6",
+  "windows": "1UpInstaller-0.0.6.exe",
+  "mac": "1UpInstaller-0.0.6.jar",
+  "notes": "Choose .jar or .exe updates, and a higher default memory allocation."
 }
