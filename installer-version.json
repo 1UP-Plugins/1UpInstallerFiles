@@ -1,6 +1,6 @@
 {
-  "version": "0.0.3",
-  "windows": "1UpInstaller-0.0.3.exe",
-  "mac": "1UpInstaller-0.0.3.jar",
-  "notes": "Adds a Current / New (Beta) choice for the 1Up Loader."
+  "version": "0.0.4",
+  "windows": "1UpInstaller-0.0.4.exe",
+  "mac": "1UpInstaller-0.0.4.jar",
+  "notes": "Improves plugin download reliability on slower connections."
 }
