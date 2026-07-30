@@ -1,6 +1,6 @@
 {
-  "version": "0.0.4",
-  "windows": "1UpInstaller-0.0.4.exe",
-  "mac": "1UpInstaller-0.0.4.jar",
-  "notes": "Improves plugin download reliability on slower connections."
+  "version": "0.0.5",
+  "windows": "1UpInstaller-0.0.5.exe",
+  "mac": "1UpInstaller-0.0.5.jar",
+  "notes": "Fresh look matching the 1Up Plugins site."
 }
