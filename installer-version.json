@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6",
-  "windows": "1UpInstaller-0.0.6.exe",
-  "mac": "1UpInstaller-0.0.6.jar",
-  "notes": "Choose .jar or .exe updates, and a higher default memory allocation."
+  "version": "0.0.7",
+  "windows": "1UpInstaller-0.0.7.exe",
+  "mac": "1UpInstaller-0.0.7.jar",
+  "notes": "Skips the JRE download when one is already installed."
 }
