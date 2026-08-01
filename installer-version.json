@@ -1,6 +1,6 @@
 {
-  "version": "0.0.8",
-  "windows": "1UpInstaller-0.0.8.exe",
-  "mac": "1UpInstaller-0.0.8.jar",
-  "notes": "Beta now installs loader 0.0.10."
+  "version": "0.0.9",
+  "windows": "1UpInstaller-0.0.9.exe",
+  "mac": "1UpInstaller-0.0.9.jar",
+  "notes": "Required update: fixes plugins not loading on the latest RuneLite."
 }
