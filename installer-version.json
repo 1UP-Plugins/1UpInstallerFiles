@@ -1,6 +1,6 @@
 {
-  "version": "0.0.10",
-  "windows": "1UpInstaller-0.0.10.exe",
-  "mac": "1UpInstaller-0.0.10.jar",
-  "notes": "Fixes the install failing when the RuneLite folder is picked with Browse."
+  "version": "0.0.11",
+  "windows": "1UpInstaller-0.0.11.exe",
+  "mac": "1UpInstaller-0.0.11.jar",
+  "notes": "Fixes installs that finished but left the client unable to start."
 }
