@@ -1,6 +1,6 @@
 {
-  "version": "0.0.9",
-  "windows": "1UpInstaller-0.0.9.exe",
-  "mac": "1UpInstaller-0.0.9.jar",
-  "notes": "Required update: fixes plugins not loading on the latest RuneLite."
+  "version": "0.0.10",
+  "windows": "1UpInstaller-0.0.10.exe",
+  "mac": "1UpInstaller-0.0.10.jar",
+  "notes": "Fixes the install failing when the RuneLite folder is picked with Browse."
 }
