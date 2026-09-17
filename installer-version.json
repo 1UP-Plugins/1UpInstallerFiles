@@ -1,6 +1,6 @@
 {
-  "version": "0.0.11",
-  "windows": "1UpInstaller-0.0.11.exe",
-  "mac": "1UpInstaller-0.0.11.jar",
-  "notes": "Fixes installs that finished but left the client unable to start."
+  "version": "0.0.12",
+  "windows": "1UpInstaller-0.0.12.exe",
+  "mac": "1UpInstaller-0.0.12.jar",
+  "notes": "Mac: no longer replaces RuneLite's runtime, and tells you if an old one needs a fresh RuneLite."
 }
