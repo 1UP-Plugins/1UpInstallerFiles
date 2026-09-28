@@ -1,6 +1,6 @@
 {
-  "version": "0.0.12",
-  "windows": "1UpInstaller-0.0.12.exe",
-  "mac": "1UpInstaller-0.0.12.jar",
-  "notes": "Mac: no longer replaces RuneLite's runtime, and tells you if an old one needs a fresh RuneLite."
+  "version": "0.0.13",
+  "windows": "1UpInstaller-0.0.13.exe",
+  "mac": "1UpInstaller-0.0.13.jar",
+  "notes": "Installs the new loader directly, won't run while RuneLite is open, and the Windows exe now finds RuneLite's own Java."
 }
