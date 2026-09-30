@@ -1,6 +1,6 @@
 {
-  "version": "0.0.13",
-  "windows": "1UpInstaller-0.0.13.exe",
-  "mac": "1UpInstaller-0.0.13.jar",
-  "notes": "Installs the new loader directly, won't run while RuneLite is open, and the Windows exe now finds RuneLite's own Java."
+  "version": "0.0.14",
+  "windows": "1UpInstaller-0.0.14.exe",
+  "mac": "1UpInstaller-0.0.14.jar",
+  "notes": "Clearer messages: says when Linux isn't supported yet, and reports folder permission problems instead of blaming your internet."
 }
