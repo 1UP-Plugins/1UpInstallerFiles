@@ -1,6 +1,6 @@
 {
-  "version": "0.0.15",
-  "windows": "1UpInstaller-0.0.15.exe",
-  "mac": "1UpInstaller-0.0.15.jar",
-  "notes": "Installs the newest 1Up loader, which lets you choose the Beta channel. Fixes a false warning on Mac saying RuneLite's runtime was incomplete."
+  "version": "0.0.16",
+  "windows": "1UpInstaller-0.0.16.exe",
+  "mac": "1UpInstaller-0.0.16.jar",
+  "notes": "Installs the newest 1Up loader, which checks your subscription while RuneLite is open and shows Time Left correctly in every time zone."
 }
